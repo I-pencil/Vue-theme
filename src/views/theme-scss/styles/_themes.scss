@@ -1,0 +1,21 @@
+
+$themes: (
+  light: (
+    // 字体颜色
+    main_color: #1E1E20,
+
+    // 背景颜色
+    main_background: #fff,
+
+    // 边框颜色
+    main_border_color: #E6E6E6,
+  ),
+
+  dark: (
+    main_color: #fff,
+
+    main_background: #1E1E20,
+
+    main_border_color: #4a4a4a,
+  )
+);

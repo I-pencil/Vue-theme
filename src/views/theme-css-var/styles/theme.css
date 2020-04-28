@@ -1,0 +1,12 @@
+
+[data-theme="light"]:root {
+  --main-color: #1E1E20;
+  --main-background: #fff;
+  --main-border-color: #E6E6E6;
+}
+
+[data-theme="dark"]:root {
+  --main-color: #fff;
+  --main-background: #1E1E20;
+  --main-border-color: #4a4a4a;
+}
